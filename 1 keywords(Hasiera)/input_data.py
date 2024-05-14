@@ -88,6 +88,13 @@ keywords = {
     "puertas abiertas":"request_puertas",
     "abiertas":"request_puertas",
     "apertura": "request_contacto_horarios",
+    "buenas": "request_saludo",
+    "informacion": "request_oferta",
+    "ciclo": "request_oferta",
+    "ciclos" :"request_oferta",
+    "fecha": "request_detalla",
+    "donde": "request_contacto_dir",
+    "periodo": "request_detalla",
 
 
 
