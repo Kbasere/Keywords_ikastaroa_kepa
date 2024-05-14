@@ -104,6 +104,7 @@ keywords = {
     "enseñanza": "request_metodologia",
 
     "practicas": "request_practica",
+    "practica": "request_practica",
     "extranjero": "request_practica",
     "Erasmus": "request_practica",
 
