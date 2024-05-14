@@ -12,6 +12,7 @@ keywords = {
     "luego": "request_despedida",
     "vista": "request_despedida",
     "agur": "request_despedida",
+    
 
  
     "horario": "request_contacto_horarios",
@@ -80,6 +81,15 @@ keywords = {
     "formacion": "request_oferta",
     "formaciones": "request_oferta",
     
+    #2. ariketarako gehituta, abierta eta abiertas desberdinduko dituen ez nago seguru
+    "aio":"request_despedida",
+    "visita":"request_puertas",
+    "puertas":"request_puertas",
+    "puertas abiertas":"request_puertas",
+    "abiertas":"request_puertas",
+    "apertura": "request_contacto_horarios",
+
+
 
 }
 
@@ -97,6 +107,7 @@ answer = {
     "request_unknown": "¡Vaya! Parece que no te he entendido muy bien. Puedo ayudarte a contactar con el centro, proporcionarte información sobre matricula y oferta",
     "request_contacto_dir": "La dirección de FP Barakaldo es aldapa kalea 3B, 48901 Barakaldo https://goo.su/q7IdU ",
     "request_contacto_email": "El correo electrónico es info@fpbarakaldolh.eus ",
-    "request_contacto_tel": "El teléfono es 944 18 02 66."
+    "request_contacto_tel": "El teléfono es 944 18 02 66.",
+    "request_puertas": "El día de puertas abiertas es el14 de mayo. Apuntate en https://fpbarakaldolh.eus/es/"
 }
 
