@@ -96,6 +96,21 @@ keywords = {
     "donde": "request_contacto_dir",
     "periodo": "request_detalla",
 
+    #3 ariketarako gehituta
+    "kokapena": "request_contacto_dir",
+    "kokatuta": "request_contacto_dir",
+
+    "metodologia": "request_metodologia",
+    "enseñanza": "request_metodologia",
+
+    "practicas": "request_practica",
+    "extranjero": "request_practica",
+    "Erasmus": "request_practica",
+
+    "dual": "request_dual",
+    "intensiva": "request_dual",
+    "trabajar": "request_dual",
+
 
 
 }
@@ -115,6 +130,9 @@ answer = {
     "request_contacto_dir": "La dirección de FP Barakaldo es aldapa kalea 3B, 48901 Barakaldo https://goo.su/q7IdU ",
     "request_contacto_email": "El correo electrónico es info@fpbarakaldolh.eus ",
     "request_contacto_tel": "El teléfono es 944 18 02 66.",
-    "request_puertas": "El día de puertas abiertas es el14 de mayo. Apuntate en https://fpbarakaldolh.eus/es/"
+    "request_puertas": "El día de puertas abiertas es el14 de mayo. Apuntate en https://fpbarakaldolh.eus/es/",
+    "request_metodologia": "La metodología que se utiliza es: metodología colaborativa intermodular basada en retos (ETHAZI)",
+    "request_practica": "Las prácticas se pueden realizar en empresas del entorno o en Europa (gracias a las becas ERASMUS)",
+    "request_dual": "Es posible realizar la DUAL en cualquier ciclo formativo de Barakaldo. La DUAL intensiva consiste en estudiar y trabajar (en la rama que se estudia) con contrato"
 }
 
