@@ -106,7 +106,7 @@ keywords = {
     "practicas": "request_practica",
     "practica": "request_practica",
     "extranjero": "request_practica",
-    "Erasmus": "request_practica",
+    "erasmus": "request_practica",
 
     "dual": "request_dual",
     "intensiva": "request_dual",
