@@ -94,9 +94,9 @@ answer = {
     "request_contacto" : "Los datos de contacto del centro son: Teléfono: 944 18 02 66. Email: info@fpbarakaldolh.eus. La dirección: aldapa kalea 3B, 48901 Barakaldo https://goo.su/q7IdU  ",
     "request_oferta": "El centro tiene una gran oferta de formaciones para realizar. Puedes informarte sobre ellas aquí: xxx (URL)",
     "request_detalla": "¿Podrías especificar si la isncripción es para matrícula o pre matrícula?",
-    "request_unknown": "¡Vaya! Parece que no te he entendido muy bien. Puedo ayudarte a contactar con el centro, proporcionarte información sobre matricula y oferta"
-    "request_contacto_dir" : "La dirección de FP Barakaldo es aldapa kalea 3B, 48901 Barakaldo https://goo.su/q7IdU ",
-    "request_contacto_email" : "El correo electrónico es info@fpbarakaldolh.eus ",
-    "request_contacto_tel" : "El teléfono es 944 18 02 66."
+    "request_unknown": "¡Vaya! Parece que no te he entendido muy bien. Puedo ayudarte a contactar con el centro, proporcionarte información sobre matricula y oferta",
+    "request_contacto_dir": "La dirección de FP Barakaldo es aldapa kalea 3B, 48901 Barakaldo https://goo.su/q7IdU ",
+    "request_contacto_email": "El correo electrónico es info@fpbarakaldolh.eus ",
+    "request_contacto_tel": "El teléfono es 944 18 02 66."
 }
 
