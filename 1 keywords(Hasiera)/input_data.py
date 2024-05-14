@@ -46,24 +46,26 @@ keywords = {
    
 
     "contacto" : "request_contacto",
-    "telefono": "request_contacto",
-    "tlfno": "request_contacto",
-    "email": "request_contacto",
-    "direccion": "request_contacto",
-    "localizacion": "request_contacto",
-    "sitio": "request_contacto",
-    "encuentra": "request_contacto",
-    "e-mail": "request_contacto",
-    "tlfn": "request_contacto",
-    "llamar": "request_contacto",
-    "llamada": "request_contacto",
-    "correo": "request_contacto",
-    "electronico": "request_contacto",
-    "gmail": "request_contacto",
-    "hotmail": "request_contacto",
-    "g-mail": "request_contacto",
-    "mail": "request_contacto",
-      
+
+    "telefono": "request_contacto_tel",
+    "tlfno": "request_contacto_tel",
+    "tlfn": "request_contacto_tel",
+    "llamar": "request_contacto_tel",
+    "llamada": "request_contacto_tel",
+
+    "direccion": "request_contacto_dir",
+    "localizacion": "request_contacto_dir",
+    "sitio": "request_contacto_dir",
+    "encuentra": "request_contacto_dir",
+    
+    "e-mail": "request_contacto_email",
+    "correo": "request_contacto_email",
+    "electronico": "request_contacto_email",
+    "gmail": "request_contacto_email",
+    "hotmail": "request_contacto_email",
+    "g-mail": "request_contacto_email",
+    "mail": "request_contacto_email",
+    "email": "request_contacto_email", 
 
     "oferta": "request_oferta",
     "ofertas": "request_oferta",
@@ -89,9 +91,12 @@ answer = {
     "request_contacto_horarios" : "El horario del centro es de 08:00-17:30. El horario de secretaría es de 09:00-14:30. ",
     "request_pre_matricula": "El periodo de pre-matrícula es a partir de junio. Si rellenas el siguiente formulario (xxx (URL), cuando se publiquen las fechas oficiales te podremos avisar. Puedes inscribirte aquí: xxx (URL)",
     "request_matricula": "Para realizar la matrícula debes esperar a julio. La matrícula puedes realizarla aquí: xxx (URL)", 
-    "request_contacto" : "Los datos de contacto del centro son: Teléfono: XXX XXX XXX. Email: xxxxxxx@gmail.com ",
+    "request_contacto" : "Los datos de contacto del centro son: Teléfono: 944 18 02 66. Email: info@fpbarakaldolh.eus. La dirección: aldapa kalea 3B, 48901 Barakaldo https://goo.su/q7IdU  ",
     "request_oferta": "El centro tiene una gran oferta de formaciones para realizar. Puedes informarte sobre ellas aquí: xxx (URL)",
     "request_detalla": "¿Podrías especificar si la isncripción es para matrícula o pre matrícula?"
     "request_unknown": "¡Vaya! Parece que no te he entendido muy bien. Puedo ayudarte a contactar con el centro, proporcionarte información sobre matricula y oferta"
+    "request_contacto_dir" : "La dirección de FP Barakaldo es aldapa kalea 3B, 48901 Barakaldo https://goo.su/q7IdU ",
+    "request_contacto_email" : "El correo electrónico es info@fpbarakaldolh.eus ",
+    "request_contacto_tel" : "El teléfono es 944 18 02 66.",
 }
 
